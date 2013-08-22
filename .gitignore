@@ -1,0 +1,7 @@
+editor/core
+editor/libs
+editor/modules
+editor/temp
+editor/www
+editor/.git
+editor/README.md
